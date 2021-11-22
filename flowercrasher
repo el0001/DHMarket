@@ -1,13 +1,13 @@
 game.StarterGui:SetCore(
     "SendNotification",
     {
-        Title = "DISCORD ON UR CLIPBOARD!",
-        Text = "https://discord.gg/99rDrdRGsU",
-        Duration = 9999999999999999
+        Title = "Flowercrash Started (1 Hour)",
+        Text = "Join Discord! Copied to Clipboard",
+        Duration = 60
     }
 )
 
-setclipboard("https://discord.gg/99rDrdRGsU")
+setclipboard("https://discord.gg/hc2Gw7gpx7")
 
 local CRASHROKU = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")

@@ -12,7 +12,7 @@ getgenv().Prefix = "/" -- Set your Prefix!
 getgenv().Fps = "5" -- FPS Lock on execute
 
 getgenv().Alts = {
-    Alt1 = 123123, -- Insert Alt Ids!! Max 10 Alts
+    Alt1 = 123123, -- Insert Alt Ids!! Max 10 Alts!
     Alt2 = 123123,
     Alt3 = 123123,
 }

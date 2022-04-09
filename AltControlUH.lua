@@ -1,3 +1,24 @@
+--[[
+Commands:
+alts - teleports alts to you
+drop - Starts Dropping (100K)
+airlock - locks alts in air
+say <text> - let your alts say something
+fps <number> - locks your alts to number
+setup <adminbase/street> - setups your alts in adminbase or street
+
+getgenv().Host = "YourUsername"  -- With Case Sensitive!
+getgenv().Prefix = "/" -- Set your Prefix!
+getgenv().Fps = "5" -- FPS Lock on execute
+
+getgenv().Alts = {
+    Alt1 = 123123, -- Insert Alt Ids!! Max 10 Alts
+    Alt2 = 123123,
+    Alt3 = 123123,
+}
+
+--]]
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
